@@ -1,0 +1,10 @@
+.timezonesContainer {
+    margin: 0 0 60px 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.timezone {
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,14 @@
+.homepage {
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 30px;
+    min-width: 1280px;
+    display: flex;
+    flex-direction: column;
+}
+
+.counterContainer {
+    margin: 0 0 60px 0;
+    display: flex;
+    justify-content: center;
+}
